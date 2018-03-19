@@ -52,6 +52,8 @@ set bg=dark
 set bs=2
 set hls
 set laststatus=2
+set splitright
+set splitbelow
 colorscheme desert
 
 set ruler
